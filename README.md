@@ -2,6 +2,7 @@
 
 Nice to meet you. I am Biel, a junior developer from Barcelona, Spain.
 Welcome to my Github page!
+
 よろしくおねがいします。
 
 I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
