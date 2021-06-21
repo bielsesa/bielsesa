@@ -8,9 +8,9 @@ Welcome to my Github page!
 I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
 I strive to be able to work as a game developer in Japan at some point! 👾
 
-- 🔭 I’m currently working on creating a small game in GameMaker
-- 🌱 I’m currently learning best practices for web app development and Nginx 
-- 📚 I’m currently reading Clean Architecture, by Robert C. Martin
+- 🔭 I’m currently working on a small web application for japanese writing classes online
+- 🌱 I’m currently learning advanced Angular, with Angular University's courses 
+- 📚 I’m not currently reading anything, so shoot me any rec you have!
 - 📫 How to reach me: bielsesa@gmail.com, I promise I look my email everyday! Or at least almost everyday...
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: I'm allergic to cats, but I currently live with two... 🐱‍🐉🐱‍🚀
