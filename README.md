@@ -23,7 +23,7 @@ I strive to be able to work as a game developer in Japan at some point! 👾
 
 * 🧪 I actually started studying Chemistry. I really love science and always wanted to become a researcher, but I'm also happy I decided to become a developer. And anyways, who knows what the future holds! ☺
 
-* 🏳️‍⚧️ I am non-binary and transmasculine. I started my transition when I was 21 years old, so I guess that makes... 4 years into it already. Time flies by really fast! I am in a much happier place now!
+* 🏳️‍⚧️ I am non-binary! 
 
 ### Technologies
 
