@@ -8,12 +8,11 @@ Welcome to my Github page!
 I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
 I strive to be able to work as a game developer in Japan at some point! 👾
 
-- 🔭 I’m currently working on a small web application for japanese writing classes online
-- 🌱 I’m currently learning advanced Angular, with Angular University's courses 
-- 📚 I’m not currently reading anything, so shoot me any rec you have!
+- 🔭 I’m currently working on a mobile game and my portfolio webpage
+- 🌱 I’m currently learning three.js and Unity
+- 📚 Right now, I'm reading Flow by Mihaly Csikszentmihalyi
 - 📫 How to reach me: bielsesa@gmail.com, I promise I look my email everyday! Or at least almost everyday...
-- 😄 Pronouns: He/They
-- ⚡ Fun fact: I'm allergic to cats, but I currently live with two... 🐱‍🐉🐱‍🚀
+- 😄 Pronouns: They/Them
 - 🌐 You can speak with me in English, Spanish, Catalan and I hope a bit of Japanese soon 😃
 
 ### A little bit more info about me...
