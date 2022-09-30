@@ -1,7 +1,7 @@
 ### Hello! 🐱‍💻
 
 Nice to meet you. I am Biel, a junior developer from Barcelona, Spain.
-Welcome to my Github page!
+Welcome to my GitHub page!
 
 よろしくおねがいします。
 
