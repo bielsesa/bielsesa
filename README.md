@@ -12,7 +12,7 @@ I strive to be able to work as a game developer in Japan at some point! 👾
 - 🌱 I’m currently learning three.js and Unity
 - 📚 Right now, I'm reading Flow by Mihaly Csikszentmihalyi
 - 📫 How to reach me: bielsesa@gmail.com, I promise I look my email everyday! Or at least almost everyday...
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: They/Them (though I prefer He/Him in Spanish)
 - 🌐 You can speak with me in English, Spanish, Catalan and I hope a bit of Japanese soon 😃
 
 ### A little bit more info about me...
