@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 よろしくおねがいします。
 
 I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
-I strive to be able to work as a game developer in Japan at some point! 👾
+I strive to be able to work as a game developer at some point! 👾
 
 - 🔭 I’m currently working on a mobile game and my portfolio webpage
 - 🌱 I’m currently learning three.js and Unity
