@@ -8,8 +8,8 @@ Welcome to my GitHub page!
 I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
 I strive to be able to work as a game developer at some point! 👾
 
-- 🔭 I’m currently working on a mobile game and my portfolio webpage
-- 🌱 I’m currently learning three.js and Unity
+- 🔭 I’m currently doing the Advent of Code for this year 😄!
+- 🌱 I’m currently trying to improve my backend skills
 - 📚 Right now, I'm reading Flow by Mihaly Csikszentmihalyi
 - 📫 How to reach me: bielsesa@gmail.com, I promise I look my email everyday! Or at least almost everyday...
 - 😄 Pronouns: They/Them (though I prefer He/Him in Spanish)
