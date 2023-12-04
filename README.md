@@ -23,7 +23,7 @@ I strive to be able to work as a game developer at some point! 👾
 
 * 🧪 I actually started studying Chemistry. I really love science and always wanted to become a researcher, but I'm also happy I decided to become a developer. And anyways, who knows what the future holds! ☺
 
-* 🏳️‍⚧️ I am non-binary! 
+* 🏳️‍⚧️ I am non-binary and transmasc! 
 
 ### Technologies
 
