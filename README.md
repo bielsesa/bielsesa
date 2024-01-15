@@ -1,32 +1,46 @@
 ### Hello! 🐱‍💻
 
-Nice to meet you. I am Biel, a junior developer from Barcelona, Spain.
+Nice to meet you. I am Biel, a backend developer from Barcelona, Spain. I have almost 4 years of experience as a .NET developer, and sometimes when I have free time I like to try out other technologies 😊.
+My dream is to be able to work in the game industry at some point.
 Welcome to my GitHub page!
 
-よろしくおねがいします。
+### More info about me
 
-I still have a long way to go, but I'm trying to take each step carefully and get everything I can out of them. ☺
-I strive to be able to work as a game developer at some point! 👾
+My full name is Biel Serrano Sánchez.
+Currently, I am a backend developer at ERNI Spain, working on a project in the MedTech industry.
 
-- 🔭 I’m currently doing the Advent of Code for this year 😄!
-- 🌱 I’m currently trying to improve my backend skills
+As I mentioned earlier, I have aprox. 4 years of experience in .NET development, as well as some experience (including in my current job) of WPF.
+Apart from that, I have commercial experience with WinForms and Visual Basic 6 (though I consider it a bit of a dark past 😋).
+
+I have two Higher Technical Certificates, for Web Development and Multi-platform app development.
+I also started a CS degree and another grade centered in videogames, but could never finish them, due to life circumstances (mostly, I had to get out of home, and bills are expensive!).
+
+Luckily, since I attended so many courses, I was able to get a glimpse of many technologies.
+I had to create PHP webs, SOAP and REST APIs with Java, as well as worked with JavaScript and all its broad range of companions (TypeScript, Angular, React Native, GraphQL...).
+And, though not as much as I would have liked, I also had the possibility of playing around with Unity.
+
+### Contact info
+
+You can write me an email at bielsesa@gmail.com.
+
+### My "life" status?
+
+- 🔭 I’m currently participating in the Patient73 game jam with some work colleagues 😄.
+- 🌱 Related with my job, I'm trying to improve my software architecture skills, so as to have a more solid base in my programming.
 - 📚 Right now, I'm reading Flow by Mihaly Csikszentmihalyi
-- 📫 How to reach me: bielsesa@gmail.com, I promise I look my email everyday! Or at least almost everyday...
-- 😄 Pronouns: They/Them (though I prefer He/Him in Spanish)
-- 🌐 You can speak with me in English, Spanish, Catalan and I hope a bit of Japanese soon 😃
+- 🌐 You can speak with me in English, Spanish, Catalan and a liiittle bit of Japanese (though I need to resume my JP studies...) 😃
 
-### A little bit more info about me...
+### Some of my projects and other facts
 
-* 🎮 I made a really small game in Superpowers HTML5 for my final project, which you can find on [itch.io](https://astronautpotato.itch.io/medical-showdown). It's full of errors but I was proud, since it was the first time I made a demo by myself.
+* 🎮 I made a really small game in Superpowers HTML5 for my final project, which you can find on (beware of the sound 😅) [itch.io](https://astronautpotato.itch.io/medical-showdown). It's full of errors, but I was proud, since it was the first time I made a demo game all by myself.
 
-* 👨🏻‍🎓 I've studied Web and Multi-platform app development in a Community College were I live, in Barcelona. Here it is called a Higher Technical Certificate. It consisted of a three-year-long course (it was actually two separate degrees, but since they share a lot of the prospectum, they joined them!).
+* 🧪 I actually started studying Chemistry. I really love science and always wanted to become a researcher, but I am actually really happy I decided to become a developer.
 
-* 🧪 I actually started studying Chemistry. I really love science and always wanted to become a researcher, but I'm also happy I decided to become a developer. And anyways, who knows what the future holds! ☺
-
-* 🏳️‍⚧️ I am non-binary and transmasc! 
+* 🏳️‍⚧️ I am non-binary and transmasc! My pronouns are they/them (though I prefer he/him in Spanish 😋).
 
 ### Technologies
 
+![.NET](https://img.shields.io/badge/-.NET%23-black?style=flat-square&logo=dotnet)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
