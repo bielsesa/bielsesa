@@ -57,6 +57,3 @@ You can write me an email at bielsesa@gmail.com.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=bielsesa&count_private=true&show_icons=true&icon_color=eb8034&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bielsesa&hide=TeX&layout=compact)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bielsesa.bielsesa)
-
