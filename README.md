@@ -15,7 +15,7 @@ Apart from that, I have commercial experience with WinForms and Visual Basic 6 (
 I have two Higher Technical Certificates, for Web Development and Multi-platform app development.
 I also started a CS degree and another grade centered in videogames, but could never finish them, due to life circumstances (mostly, I had to get out of home, and bills are expensive!).
 
-Luckily, since I attended so many courses, I was able to get a glimpse of many technologies.
+Thanks to attending both multi-platform app and web courses, I was able to get a glimpse of many technologies.
 I had to create PHP webs, SOAP and REST APIs with Java, as well as worked with JavaScript and all its broad range of companions (TypeScript, Angular, React Native, GraphQL...).
 And, though not as much as I would have liked, I also had the possibility of playing around with Unity.
 
