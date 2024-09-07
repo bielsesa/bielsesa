@@ -38,6 +38,8 @@ You can write me an email at bielsesa@gmail.com.
 
 ### Some of my projects and other facts
 
+* 💫 I recently created a [personal webpage with Next.JS](https://www.astronautpotato.com/), and hosted on Vercel.
+
 * 🎮 I have an [itch.io page](https://astronautpotato.itch.io/) with some games made for game jams and small projects for my studies. Since it's my hobby, I'm trying to grow my itch.io page with more free games for now.
 
 * 🧪 I actually started studying Chemistry. I really love science and always wanted to become a researcher, but I am actually really happy I decided to become a developer.
